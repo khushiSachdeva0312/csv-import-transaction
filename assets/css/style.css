@@ -1,0 +1,74 @@
+#wrapper{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+.addon_container{
+    margin:0px auto;
+    padding:0px;
+    width:100%;
+}
+.ad_content_area{
+    margin:0px;
+    padding:0px;
+    background:#fff;
+    border-radius:3px;
+    width:100%;
+    display: inline-block;
+   /* box-shadow: 0 0px 3px #d0ddf0 inset;*/
+}
+.add_hdr {
+    background: #fff;
+    margin: 0px;
+    padding: 0px 30px;
+    width: 100%;
+    height: auto;
+    box-shadow: 3px 1px 10px #00000024;
+    border-radius: 3px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.WHMCS_logo img {
+    width: 100%;
+    max-width: 150px;
+}
+.add_nav{
+    margin:0px;
+    padding:0px;
+    float:right;
+}
+.add_nav ul{
+    margin:0px;
+    padding:0px;
+    float:right;
+    font-size: 18px;
+}
+.add_nav ul li{
+    margin:0px;
+    padding:0px;
+    float:left;
+    line-height:52px;
+    list-style:none;
+}
+.add_nav ul li a {
+    display: block;
+    margin: 0;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.csv_file_upload {
+    margin-top: 25px;
+    min-height: 155px;
+    /* position: relative;
+    width: 30%; */
+    /* top: 50%; */
+    /* left: 30%; */
+    background: #fff;
+    padding: 18px 64px;
+    box-shadow: 3px 1px 10px #00000024;
+}
